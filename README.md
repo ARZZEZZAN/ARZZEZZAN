@@ -15,14 +15,12 @@ Bio:
 
 <h3 align="left">Programming Languages:</h3>
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Go]([https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white](https://damiandeluca.com.ar/wp-content/uploads/2018/04/gologo.png))
+![C#]([https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white](https://static.gunnarpeipman.com/wp-content/uploads/2009/10/csharp-featured.png.webp))
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-<a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/> </a>
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 <a> <img src="https://th.bing.com/th/id/R.73224ff83996ff1edc9c3532e965d393?rik=YgYv4DaVqfRBwg&riu=http%3a%2f%2fwww.techcentral.ie%2fwp-content%2fuploads%2f2015%2f08%2fCOBOL_logo_web.jpg&ehk=Oy%2fT%2fRJGTIU2IrM3JY%2ftUCOO9l6u4%2f4D7XWVyiQrpm8%3d&risl=&pid=ImgRaw&r=0" width="70" height="25"/> </a>
