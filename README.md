@@ -1,17 +1,16 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif"/>
-</div>
-<h1  align="center">  𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h1>
+
+<h1  align="center">  𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h1>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<img width="33%" align="right"   src="https://github.com/gursimarh/gursimarh/blob/main/workbench.svg" >
+<div id="header" align="center">
+  <img width="33%" align="right" src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif"/>
 </div>
+
 
 ```yaml
 Bio:
-    Name: "Armen Arzumanyan"
-    Education: "Computer Science Engineering"
-    Location: "Moscow, Russia"
-    
+    Name: "Armen Arzumanyan" 
+    Education: "Computer Science Engineering, PR-Manager"
+    Location: "Moscow, Russia" 
 ```
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h2> Technical Skills 🛠 </h2>
