@@ -1,10 +1,9 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/oWjyixDbWuAk8/giphy.gif"/>
+</div>
 <h1  align="center">  𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h1>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img width="33%" align="right"   src="https://github.com/gursimarh/gursimarh/blob/main/workbench.svg" >
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge](https://i.imgur.com/Lf5v12U.gif)"/>
-  </a>
 </div>
 
 ```yaml
