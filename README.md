@@ -33,8 +33,8 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
-![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+![Prometheus](https://img.shields.io/badge/-Prometheus-000?style=for-the-badge&logo=Prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-000?style=for-the-badge&logo=Grafana)
 
 <h3 align="left">Operating Systems:</h3>
 
