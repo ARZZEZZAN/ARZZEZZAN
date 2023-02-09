@@ -11,7 +11,8 @@
 >- :desktop_computer: Junior Backend Developer
 >- :man_student: Computer Science Engineering, PR-Manager
 >- :city_sunrise: Moscow, Russia
->- Contact Info: [![G-Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armenarzz@mail.ru)
+>
+ [![G-Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armenarzz@mail.ru)
  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ArmenArz)
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h2> Technical Skills 🛠 </h2>
