@@ -36,8 +36,6 @@
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
 
-
-
 <h3 align="left">Operating Systems:</h3>
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
