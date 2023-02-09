@@ -43,7 +43,7 @@
   ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
   ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
 
-## :fire: Stats:
+## Stats:fire:
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ARZZEZZAN&theme=highcontrast&hide_border=true&border_radius=4&mode=weekly)](https://git.io/streak-stats)
 
 
