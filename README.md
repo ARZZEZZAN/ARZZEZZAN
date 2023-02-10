@@ -1,5 +1,9 @@
 
 <h1  align="center">  𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h1>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/AUL9fRYuuJQoE/giphy.gif"/>
 </div>
