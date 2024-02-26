@@ -8,7 +8,7 @@
 
 ## :disguised_face: About Me:
 >- :bearded_person: Armen Arzumanyan
->- :desktop_computer: Junior Backend Developer
+>- :desktop_computer: Middle Backend Developer
 >- :man_student: Computer Science Engineering, PR-Manager
 >- :city_sunrise: Moscow, Russia
 >
